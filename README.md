@@ -1,5 +1,5 @@
 # React Native App MyBMW
-App criado para exemplificar o uso de navegações com o React Navigation (Stack, Tab e Drawer), uso de Modal, FlatList e ícones.
+App criado para ser uma representação do App Mybmw da BMW utilizando React Native.
 
 ## Instalação
 1. Clone esse repositório ou faça o download dos arquivos
