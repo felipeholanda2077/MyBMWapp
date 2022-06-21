@@ -1,6 +1,12 @@
 # React Native App MyBMW
 App criado para ser uma representação do App Mybmw da BMW utilizando React Native.
 
+<br>
+
+<p align="center">
+<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESEMVOLVIMENTO&color=yellow&style=for-the-badge"/>
+</p>
+
 ## Instalação
 1. Clone esse repositório ou faça o download dos arquivos
 2. Abra o projeto no Visual Studio Code
