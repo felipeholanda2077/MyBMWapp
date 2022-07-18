@@ -15,6 +15,8 @@ App criado para ser uma representação do App Mybmw da BMW utilizando React Nat
 5. Execute o projeto com `react-native run-android`
 6. Enjoy!
 
+<br>
+
 <h1>Capturas de tela</h1>
 
 <table>
