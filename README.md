@@ -4,7 +4,7 @@ App criado para ser uma representação do App Mybmw da BMW utilizando React Nat
 <br>
 
 <p align="center">
-<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESEMVOLVIMENTO&color=yellow&style=for-the-badge"/>
+<img src="http://img.shields.io/static/v1?label=STATUS&message=%20FINALIZADO&color=green&style=for-the-badge"/>
 </p>
 
 <br>
